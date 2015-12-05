@@ -1,6 +1,5 @@
 package team.chisel.common.util.json;
 
-import com.google.common.base.Supplier;
 
 public abstract class JsonObjectBase<T, F> {
 
